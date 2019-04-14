@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://Darthagnon.github.io/pt-br/posts/dummy/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://Darthagnon.github.io/pt-br/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://Darthagnon.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://Darthagnon.github.io/pt-br/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://Darthagnon.github.io/pt-br/posts/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://Darthagnon.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://Darthagnon.github.io/pt-br/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://Darthagnon.github.io/pt-br/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://Darthagnon.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://Darthagnon.github.io/pt-br/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://Darthagnon.github.io/pt-br/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://Darthagnon.github.io/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://Darthagnon.github.io/pt-br/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://Darthagnon.github.io/pt-br/series/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://Darthagnon.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://Darthagnon.github.io/pt-br/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://Darthagnon.github.io/pt-br/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://Darthagnon.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://Darthagnon.github.io/pt-br/about/"
+                />
+  </url>
+  
+</urlset>
